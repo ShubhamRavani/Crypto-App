@@ -30,11 +30,11 @@ const App = () => (
         </div>
       </Layout>
       <div className="footer">
-        <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>Copyright © 2022
+        <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>Copyright © 2022 {" "}
           <Link to="/">
-            Cryptoverse Inc.
+            Crypto App
           </Link> <br />
-          All Rights Reserved.
+          All Rights Reserved
         </Typography.Title>
         <Space>
           <Link to="/">Home</Link>
